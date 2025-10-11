@@ -119,6 +119,6 @@ Hi there! I'm **Suresh**, a data enthusiast passionate about building efficient 
 I love exploring new tools and creating data projects that bridge raw information with meaningful insights.
 
 Let’s connect and collaborate!
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](worksbysuresh.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://worksbysuresh.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SureshReddy36)
 
